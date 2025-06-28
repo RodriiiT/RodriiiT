@@ -41,7 +41,7 @@ One line of code, one challenge, one experience at a time.
 ## <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RodriiiT&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriiiT&theme=dark&hide_border=false" alt="GitHub Streak" width="32%" />
+  <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriiiT&theme=dark&hide_border=false" alt="GitHub Streak" width="32%" /-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriiiT&layout=compact&theme=dark&langs_count=8" alt="Top Languages" width="32%" />
 </p>
 
