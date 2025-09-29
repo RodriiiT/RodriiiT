@@ -32,7 +32,7 @@ One line of code, one challenge, one experience at a time.
 <!-- Technologies I Use -->
 ## <h2 align="center"> Tools & Skills </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,java,ts,py,js,html,css,nodejs,react,mysql,vscode&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,java,cs,py,js,html,css,nodejs,react,mysql,firebase,vscode&perline=9" alt="Tech Stack" />
 </p>
 
 <hr/>
