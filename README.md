@@ -35,15 +35,14 @@ One line of code, one challenge, one experience at a time.
   <img src="https://skillicons.dev/icons?i=git,github,figma,java,cs,py,js,html,css,nodejs,react,mysql,firebase,vscode&perline=9" alt="Tech Stack" />
 </p>
 
-<hr/>
 
 <!-- GitHub Stats Side-by-Side -->
-## <h2 align="center">📊 GitHub Stats</h2>
+<!-- ## <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RodriiiT&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" width="32%" />
   <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriiiT&theme=dark&hide_border=false" alt="GitHub Streak" width="32%" /-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriiiT&layout=compact&theme=dark&langs_count=8" alt="Top Languages" width="32%" />
-</p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriiiT&layout=compact&theme=dark&langs_count=8" alt="Top Languages" width="32%" />
+</p> -->
 
 <hr/>
 
@@ -68,3 +67,11 @@ One line of code, one challenge, one experience at a time.
 <img src="https://komarev.com/ghpvc/?username=RodriiiT&&style=flat-square" align="center" />
 </div>  
 <br/>  
+<div align="center">
+  <a href="https://bit.ly/49k4bRm">
+    <img src="https://img.shields.io/badge/Descargar-CV_Español-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Español" />
+  </a>
+  &nbsp; <a href="https://bit.ly/4qNchaK">
+    <img src="https://img.shields.io/badge/Download-Resume_English-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume English" />
+  </a>
+</div>
