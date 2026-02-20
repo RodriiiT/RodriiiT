@@ -17,7 +17,7 @@ I’m currently focused on strengthening my fundamentals in programming, design,
 
 ## 🌱 Currently Learning 
 <p>
-📌 React & Tailwind <br>
+📌 Flutter & Tailwind <br>
 📌 Django & Gitlab <br>
 📌 Improving logical thinking and clean code habits
 </p>
